@@ -1,0 +1,2 @@
+darknet_ros/darknet_ros:darknet_ros/darknet_ros_msgs:package1
+-DCMAKE_BUILD_TYPE=Release -DCATKIN_DEVEL_PREFIX=/home/gallelio74/Desktop/new_ws/devel -DCMAKE_INSTALL_PREFIX=/home/gallelio74/Desktop/new_ws/install -G Unix Makefiles
